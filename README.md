@@ -1,1 +1,1 @@
-# Trillo project - a website for tourist company
+# Trillo project - the website for tourist company
