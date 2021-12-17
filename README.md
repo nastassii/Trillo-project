@@ -6,8 +6,8 @@
 
 This website is for a tourist company. I developed the main page, where the user can read about the hotels and book any of them. 
 To develop this project, I used only HTML and CSS. Also I used Sass when writing the styles. 
-<br> In the folder ```'css'``` there are all styles of the project: one file for icons and the rest are for styling all elements of the page.
-All of these CSS files besides ```'icon-font.css'``` make up a build process that was implemented with NPM scripts (you can find them in ```'package.json'``` file). Thus the final file of styles is ```'style.css'```. 
+<br> In the folder ```'css'``` there are all styles of the project.
+All of these CSS files make up a build process that was implemented with NPM scripts (you can find them in ```'package.json'``` file). Thus the final file of styles is ```'style.css'```. 
 <br>All pictures are stored in the ```'img'``` folder.
 <br>```'index.html'``` contains markup symbols or codes inserted into a web page.
 <br>```'package-lock.json'``` & ```'package.json'``` contain all packages/dependencies that were installed to create this project. 
